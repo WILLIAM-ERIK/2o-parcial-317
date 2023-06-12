@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "academico", "academico\academico.dtproj", "{03C3ED51-FDF5-4F89-8D64-E6DAD3F5A088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03C3ED51-FDF5-4F89-8D64-E6DAD3F5A088}.Development|Default.ActiveCfg = Development
+		{03C3ED51-FDF5-4F89-8D64-E6DAD3F5A088}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F82056-04EE-4B0E-9464-85FAE1A4870A}
+	EndGlobalSection
+EndGlobal

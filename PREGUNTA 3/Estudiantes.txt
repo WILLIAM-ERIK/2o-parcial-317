@@ -1,0 +1,11 @@
+EstudianteID|Nombre|Apellido|Edad|Carrera
+1|Juan|Perez|20|Ingenieria Informatica
+2|Maria|Gomez|22|Arquitectura
+3|Carlos|Lopez|19|Ciencias de la Computacion
+4|Ana|Rodriguez|21|Biologia
+5|Luis|Martinez|23|Administracion de Empresas
+6|Laura|Sanchez|35|Ciencias de la Computacion
+7|Pedro|Ramirez|40|Matematicas
+8|Isabel|Torres|38|Historia
+9|Juan|Garcia|45|Idiomas
+10|Carmen|Morales|42|Economia
